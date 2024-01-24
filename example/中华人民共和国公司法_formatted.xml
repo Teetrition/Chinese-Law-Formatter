@@ -44,7 +44,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>有限责任公司的股东以其认缴的出资额为限对公司承担责任；股份有限公司的股东以其认购的股份为限对公司承担责任。</Sentence>
+              <Sentence Num="1">有限责任公司的股东以其认缴的出资额为限对公司承担责任；</Sentence>
+              <Sentence Num="2">股份有限公司的股东以其认购的股份为限对公司承担责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -216,7 +217,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司向其他企业投资或者为他人提供担保，按照公司章程的规定，由董事会或者股东会决议；公司章程对投资或者担保的总额及单项投资或者担保的数额有限额规定的，不得超过规定的限额。</Sentence>
+              <Sentence Num="1">公司向其他企业投资或者为他人提供担保，按照公司章程的规定，由董事会或者股东会决议；</Sentence>
+              <Sentence Num="2">公司章程对投资或者担保的总额及单项投资或者担保的数额有限额规定的，不得超过规定的限额。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -386,7 +388,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>未被通知参加股东会会议的股东自知道或者应当知道股东会决议作出之日起六十日内，可以请求人民法院撤销；自决议作出之日起一年内没有行使撤销权的，撤销权消灭。</Sentence>
+              <Sentence Num="1">未被通知参加股东会会议的股东自知道或者应当知道股东会决议作出之日起六十日内，可以请求人民法院撤销；</Sentence>
+              <Sentence Num="2">自决议作出之日起一年内没有行使撤销权的，撤销权消灭。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -476,7 +479,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>申请设立公司，符合本法规定的设立条件的，由公司登记机关分别登记为有限责任公司或者股份有限公司；不符合本法规定的设立条件的，不得登记为有限责任公司或者股份有限公司。</Sentence>
+              <Sentence Num="1">申请设立公司，符合本法规定的设立条件的，由公司登记机关分别登记为有限责任公司或者股份有限公司；</Sentence>
+              <Sentence Num="2">不符合本法规定的设立条件的，不得登记为有限责任公司或者股份有限公司。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -714,7 +718,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>公司未成立的，其法律后果由公司设立时的股东承受；设立时的股东为二人以上的，享有连带债权，承担连带债务。</Sentence>
+                <Sentence Num="1">公司未成立的，其法律后果由公司设立时的股东承受；</Sentence>
+                <Sentence Num="2">设立时的股东为二人以上的，享有连带债权，承担连带债务。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -823,7 +828,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股东可以用货币出资，也可以用实物、知识产权、土地使用权、股权、债权等可以用货币估价并可以依法转让的非货币财产作价出资；但是，法律、行政法规规定不得作为出资的财产除外。</Sentence>
+                <Sentence Num="1">股东可以用货币出资，也可以用实物、知识产权、土地使用权、股权、债权等可以用货币估价并可以依法转让的非货币财产作价出资；</Sentence>
+                <Sentence Num="2" Function="proviso">但是，法律、行政法规规定不得作为出资的财产除外。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -845,7 +851,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股东以货币出资的，应当将货币出资足额存入有限责任公司在银行开设的账户；以非货币财产出资的，应当依法办理其财产权的转移手续。</Sentence>
+                <Sentence Num="1">股东以货币出资的，应当将货币出资足额存入有限责任公司在银行开设的账户；</Sentence>
+                <Sentence Num="2">以非货币财产出资的，应当依法办理其财产权的转移手续。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -893,7 +900,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>依照前款规定丧失的股权应当依法转让，或者相应减少注册资本并注销该股权；六个月内未转让或者注销的，由公司其他股东按照其出资比例足额缴纳相应出资。</Sentence>
+                <Sentence Num="1">依照前款规定丧失的股权应当依法转让，或者相应减少注册资本并注销该股权；</Sentence>
+                <Sentence Num="2">六个月内未转让或者注销的，由公司其他股东按照其出资比例足额缴纳相应出资。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -914,7 +922,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>违反前款规定的，股东应当返还抽逃的出资；给公司造成损失的，负有责任的董事、监事、高级管理人员应当与该股东承担连带赔偿责任。</Sentence>
+                <Sentence Num="1">违反前款规定的，股东应当返还抽逃的出资；</Sentence>
+                <Sentence Num="2">给公司造成损失的，负有责任的董事、监事、高级管理人员应当与该股东承担连带赔偿责任。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1183,7 +1192,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>董事会不能履行或者不履行召集股东会会议职责的，由监事会召集和主持；监事会不召集和主持的，代表十分之一以上表决权的股东可以自行召集和主持。</Sentence>
+                <Sentence Num="1">董事会不能履行或者不履行召集股东会会议职责的，由监事会召集和主持；</Sentence>
+                <Sentence Num="2">监事会不召集和主持的，代表十分之一以上表决权的股东可以自行召集和主持。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1192,7 +1202,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>召开股东会会议，应当于会议召开十五日前通知全体股东；但是，公司章程另有规定或者全体股东另有约定的除外。</Sentence>
+                <Sentence Num="1">召开股东会会议，应当于会议召开十五日前通知全体股东；</Sentence>
+                <Sentence Num="2" Function="proviso">但是，公司章程另有规定或者全体股东另有约定的除外。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1207,7 +1218,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股东会会议由股东按照出资比例行使表决权；但是，公司章程另有规定的除外。</Sentence>
+                <Sentence Num="1">股东会会议由股东按照出资比例行使表决权；</Sentence>
+                <Sentence Num="2" Function="proviso">但是，公司章程另有规定的除外。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1552,7 +1564,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>监事会发现公司经营情况异常，可以进行调查；必要时，可以聘请会计师事务所等协助其工作，费用由公司承担。</Sentence>
+                <Sentence Num="1">监事会发现公司经营情况异常，可以进行调查；</Sentence>
+                <Sentence Num="2">必要时，可以聘请会计师事务所等协助其工作，费用由公司承担。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1618,7 +1631,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>规模较小或者股东人数较少的有限责任公司，可以不设监事会，设一名监事，行使本法规定的监事会的职权；经全体股东一致同意，也可以不设监事。</Sentence>
+                <Sentence Num="1">规模较小或者股东人数较少的有限责任公司，可以不设监事会，设一名监事，行使本法规定的监事会的职权；</Sentence>
+                <Sentence Num="2">经全体股东一致同意，也可以不设监事。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1692,13 +1706,15 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>股东转让已认缴出资但未届出资期限的股权的，由受让人承担缴纳该出资的义务；受让人未按期足额缴纳出资的，转让人对受让人未按期缴纳的出资承担补充责任。</Sentence>
+              <Sentence Num="1">股东转让已认缴出资但未届出资期限的股权的，由受让人承担缴纳该出资的义务；</Sentence>
+              <Sentence Num="2">受让人未按期足额缴纳出资的，转让人对受让人未按期缴纳的出资承担补充责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>未按照公司章程规定的出资日期缴纳出资或者作为出资的非货币财产的实际价额显著低于所认缴的出资额的股东转让股权的，转让人与受让人在出资不足的范围内承担连带责任；受让人不知道且不应当知道存在上述情形的，由转让人承担责任。</Sentence>
+              <Sentence Num="1">未按照公司章程规定的出资日期缴纳出资或者作为出资的非货币财产的实际价额显著低于所认缴的出资额的股东转让股权的，转让人与受让人在出资不足的范围内承担连带责任；</Sentence>
+              <Sentence Num="2">受让人不知道且不应当知道存在上述情形的，由转让人承担责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1752,7 +1768,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>自然人股东死亡后，其合法继承人可以继承股东资格；但是，公司章程另有规定的除外。</Sentence>
+              <Sentence Num="1">自然人股东死亡后，其合法继承人可以继承股东资格；</Sentence>
+              <Sentence Num="2" Function="proviso">但是，公司章程另有规定的除外。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1929,7 +1946,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>以募集设立方式设立股份有限公司的，发起人认购的股份不得少于公司章程规定的公司设立时应发行股份总数的百分之三十五；但是，法律、行政法规另有规定的，从其规定。</Sentence>
+                <Sentence Num="1">以募集设立方式设立股份有限公司的，发起人认购的股份不得少于公司章程规定的公司设立时应发行股份总数的百分之三十五；</Sentence>
+                <Sentence Num="2" Function="proviso">但是，法律、行政法规另有规定的，从其规定。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2244,7 +2262,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>董事会不能履行或者不履行召集股东会会议职责的，监事会应当及时召集和主持；监事会不召集和主持的，连续九十日以上单独或者合计持有公司百分之十以上股份的股东可以自行召集和主持。</Sentence>
+                <Sentence Num="1">董事会不能履行或者不履行召集股东会会议职责的，监事会应当及时召集和主持；</Sentence>
+                <Sentence Num="2">监事会不召集和主持的，连续九十日以上单独或者合计持有公司百分之十以上股份的股东可以自行召集和主持。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2259,7 +2278,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>召开股东会会议，应当将会议召开的时间、地点和审议的事项于会议召开二十日前通知各股东；临时股东会会议应当于会议召开十五日前通知各股东。</Sentence>
+                <Sentence Num="1">召开股东会会议，应当将会议召开的时间、地点和审议的事项于会议召开二十日前通知各股东；</Sentence>
+                <Sentence Num="2">临时股东会会议应当于会议召开十五日前通知各股东。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2327,7 +2347,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股东委托代理人出席股东会会议的，应当明确代理人代理的事项、权限和期限；代理人应当向公司提交股东授权委托书，并在授权范围内行使表决权。</Sentence>
+                <Sentence Num="1">股东委托代理人出席股东会会议的，应当明确代理人代理的事项、权限和期限；</Sentence>
+                <Sentence Num="2">代理人应当向公司提交股东授权委托书，并在授权范围内行使表决权。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2466,7 +2487,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>董事会会议，应当由董事本人出席；董事因故不能出席，可以书面委托其他董事代为出席，委托书应当载明授权范围。</Sentence>
+                <Sentence Num="1">董事会会议，应当由董事本人出席；</Sentence>
+                <Sentence Num="2">董事因故不能出席，可以书面委托其他董事代为出席，委托书应当载明授权范围。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2782,7 +2804,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>同次发行的同类别股份，每股的发行条件和价格应当相同；认购人所认购的股份，每股应当支付相同价额。</Sentence>
+                <Sentence Num="1">同次发行的同类别股份，每股的发行条件和价格应当相同；</Sentence>
+                <Sentence Num="2">认购人所认购的股份，每股应当支付相同价额。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2821,7 +2844,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>公开发行股份的公司不得发行前款第二项、第三项规定的类别股；公开发行前已发行的除外。</Sentence>
+                <Sentence Num="1">公开发行股份的公司不得发行前款第二项、第三项规定的类别股；</Sentence>
+                <Sentence Num="2">公开发行前已发行的除外。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3130,7 +3154,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股份有限公司的股东持有的股份可以向其他股东转让，也可以向股东以外的人转让；公司章程对股份转让有限制的，其转让按照公司章程的规定进行。</Sentence>
+                <Sentence Num="1">股份有限公司的股东持有的股份可以向其他股东转让，也可以向股东以外的人转让；</Sentence>
+                <Sentence Num="2">公司章程对股份转让有限制的，其转让按照公司章程的规定进行。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3148,7 +3173,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>股票的转让，由股东以背书方式或者法律、行政法规规定的其他方式进行；转让后由公司将受让人的姓名或者名称及住所记载于股东名册。</Sentence>
+                <Sentence Num="1">股票的转让，由股东以背书方式或者法律、行政法规规定的其他方式进行；</Sentence>
+                <Sentence Num="2">转让后由公司将受让人的姓名或者名称及住所记载于股东名册。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3270,7 +3296,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>公司因前款第一项、第二项规定的情形收购本公司股份的，应当经股东会决议；公司因前款第三项、第五项、第六项规定的情形收购本公司股份的，可以按照公司章程或者股东会的授权，经三分之二以上董事出席的董事会会议决议。</Sentence>
+                <Sentence Num="1">公司因前款第一项、第二项规定的情形收购本公司股份的，应当经股东会决议；</Sentence>
+                <Sentence Num="2">公司因前款第三项、第五项、第六项规定的情形收购本公司股份的，可以按照公司章程或者股东会的授权，经三分之二以上董事出席的董事会会议决议。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3350,7 +3377,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>自然人股东死亡后，其合法继承人可以继承股东资格；但是，股份转让受限的股份有限公司的章程另有规定的除外。</Sentence>
+                <Sentence Num="1">自然人股东死亡后，其合法继承人可以继承股东资格；</Sentence>
+                <Sentence Num="2" Function="proviso">但是，股份转让受限的股份有限公司的章程另有规定的除外。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3363,7 +3391,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国家出资公司的组织机构，适用本章规定；本章没有规定的，适用本法其他规定。</Sentence>
+              <Sentence Num="1">国家出资公司的组织机构，适用本章规定；</Sentence>
+              <Sentence Num="2">本章没有规定的，适用本法其他规定。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3434,7 +3463,8 @@
           <Paragraph Num="3">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>董事会成员由履行出资人职责的机构委派；但是，董事会成员中的职工代表由公司职工代表大会选举产生。</Sentence>
+              <Sentence Num="1">董事会成员由履行出资人职责的机构委派；</Sentence>
+              <Sentence Num="2" Function="proviso">但是，董事会成员中的职工代表由公司职工代表大会选举产生。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -3703,7 +3733,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>董事、高级管理人员有前条规定的情形的，有限责任公司的股东、股份有限公司连续一百八十日以上单独或者合计持有公司百分之一以上股份的股东，可以书面请求监事会向人民法院提起诉讼；监事有前条规定的情形的，前述股东可以书面请求董事会向人民法院提起诉讼。</Sentence>
+              <Sentence Num="1">董事、高级管理人员有前条规定的情形的，有限责任公司的股东、股份有限公司连续一百八十日以上单独或者合计持有公司百分之一以上股份的股东，可以书面请求监事会向人民法院提起诉讼；</Sentence>
+              <Sentence Num="2">监事有前条规定的情形的，前述股东可以书面请求董事会向人民法院提起诉讼。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3739,7 +3770,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>董事、高级管理人员执行职务，给他人造成损害的，公司应当承担赔偿责任；董事、高级管理人员存在故意或者重大过失的，也应当承担赔偿责任。</Sentence>
+              <Sentence Num="1">董事、高级管理人员执行职务，给他人造成损害的，公司应当承担赔偿责任；</Sentence>
+              <Sentence Num="2">董事、高级管理人员存在故意或者重大过失的，也应当承担赔偿责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3952,7 +3984,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司债券由债券持有人以背书方式或者法律、行政法规规定的其他方式转让；转让后由公司将受让人的姓名或者名称及住所记载于公司债券持有人名册。</Sentence>
+              <Sentence Num="1">公司债券由债券持有人以背书方式或者法律、行政法规规定的其他方式转让；</Sentence>
+              <Sentence Num="2">转让后由公司将受让人的姓名或者名称及住所记载于公司债券持有人名册。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4066,7 +4099,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>股份有限公司的财务会计报告应当在召开股东会年会的二十日前置备于本公司，供股东查阅；公开发行股份的股份有限公司应当公告其财务会计报告。</Sentence>
+              <Sentence Num="1">股份有限公司的财务会计报告应当在召开股东会年会的二十日前置备于本公司，供股东查阅；</Sentence>
+              <Sentence Num="2">公开发行股份的股份有限公司应当公告其财务会计报告。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4094,7 +4128,8 @@
           <Paragraph Num="4">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司弥补亏损和提取公积金后所余税后利润，有限责任公司按照股东实缴的出资比例分配利润，全体股东约定不按照出资比例分配利润的除外；股份有限公司按照股东所持有的股份比例分配利润，公司章程另有规定的除外。</Sentence>
+              <Sentence Num="1">公司弥补亏损和提取公积金后所余税后利润，有限责任公司按照股东实缴的出资比例分配利润，全体股东约定不按照出资比例分配利润的除外；</Sentence>
+              <Sentence Num="2">股份有限公司按照股东所持有的股份比例分配利润，公司章程另有规定的除外。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -4109,7 +4144,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司违反本法规定向股东分配利润的，股东应当将违反规定分配的利润退还公司；给公司造成损失的，股东及负有责任的董事、监事、高级管理人员应当承担赔偿责任。</Sentence>
+              <Sentence Num="1">公司违反本法规定向股东分配利润的，股东应当将违反规定分配的利润退还公司；</Sentence>
+              <Sentence Num="2">给公司造成损失的，股东及负有责任的董事、监事、高级管理人员应当承担赔偿责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4142,7 +4178,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公积金弥补公司亏损，应当先使用任意公积金和法定公积金；仍不能弥补的，可以按照规定使用资本公积金。</Sentence>
+              <Sentence Num="1">公积金弥补公司亏损，应当先使用任意公积金和法定公积金；</Sentence>
+              <Sentence Num="2">仍不能弥补的，可以按照规定使用资本公积金。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4221,7 +4258,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司合并支付的价款不超过本公司净资产百分之十的，可以不经股东会决议；但是，公司章程另有规定的除外。</Sentence>
+              <Sentence Num="1">公司合并支付的价款不超过本公司净资产百分之十的，可以不经股东会决议；</Sentence>
+              <Sentence Num="2" Function="proviso">但是，公司章程另有规定的除外。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4326,7 +4364,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>违反本法规定减少注册资本的，股东应当退还其收到的资金，减免股东出资的应当恢复原状；给公司造成损失的，股东及负有责任的董事、监事、高级管理人员应当承担赔偿责任。</Sentence>
+              <Sentence Num="1">违反本法规定减少注册资本的，股东应当退还其收到的资金，减免股东出资的应当恢复原状；</Sentence>
+              <Sentence Num="2">给公司造成损失的，股东及负有责任的董事、监事、高级管理人员应当承担赔偿责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4593,7 +4632,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>清算组成员怠于履行清算职责，给公司造成损失的，应当承担赔偿责任；因故意或者重大过失给债权人造成损失的，应当承担赔偿责任。</Sentence>
+              <Sentence Num="1">清算组成员怠于履行清算职责，给公司造成损失的，应当承担赔偿责任；</Sentence>
+              <Sentence Num="2">因故意或者重大过失给债权人造成损失的，应当承担赔偿责任。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4786,7 +4826,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司的发起人、股东在公司成立后，抽逃其出资的，由公司登记机关责令改正，处以所抽逃出资金额百分之五以上百分之十五以下的罚款；对直接负责的主管人员和其他直接责任人员处以三万元以上三十万元以下的罚款。</Sentence>
+              <Sentence Num="1">公司的发起人、股东在公司成立后，抽逃其出资的，由公司登记机关责令改正，处以所抽逃出资金额百分之五以上百分之十五以下的罚款；</Sentence>
+              <Sentence Num="2">对直接负责的主管人员和其他直接责任人员处以三万元以上三十万元以下的罚款。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4825,7 +4866,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司在进行清算时，隐匿财产，对资产负债表或者财产清单作虚假记载，或者在未清偿债务前分配公司财产的，由公司登记机关责令改正，对公司处以隐匿财产或者未清偿债务前分配公司财产金额百分之五以上百分之十以下的罚款；对直接负责的主管人员和其他直接责任人员处以一万元以上十万元以下的罚款。</Sentence>
+              <Sentence Num="1">公司在进行清算时，隐匿财产，对资产负债表或者财产清单作虚假记载，或者在未清偿债务前分配公司财产的，由公司登记机关责令改正，对公司处以隐匿财产或者未清偿债务前分配公司财产金额百分之五以上百分之十以下的罚款；</Sentence>
+              <Sentence Num="2">对直接负责的主管人员和其他直接责任人员处以一万元以上十万元以下的罚款。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4873,7 +4915,8 @@
           <Paragraph Num="2">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>公司登记事项发生变更时，未依照本法规定办理有关变更登记的，由公司登记机关责令限期登记；逾期不登记的，处以一万元以上十万元以下的罚款。</Sentence>
+              <Sentence Num="1">公司登记事项发生变更时，未依照本法规定办理有关变更登记的，由公司登记机关责令限期登记；</Sentence>
+              <Sentence Num="2">逾期不登记的，处以一万元以上十万元以下的罚款。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4932,7 +4975,8 @@
             <Item Num="2">
               <ItemTitle>（二）</ItemTitle>
               <ItemSentence>
-                <Sentence>控股股东，是指其出资额占有限责任公司资本总额超过百分之五十或者其持有的股份占股份有限公司股本总额超过百分之五十的股东；出资额或者持有股份的比例虽然低于百分之五十，但依其出资额或者持有的股份所享有的表决权已足以对股东会的决议产生重大影响的股东。</Sentence>
+                <Sentence Num="1">控股股东，是指其出资额占有限责任公司资本总额超过百分之五十或者其持有的股份占股份有限公司股本总额超过百分之五十的股东；</Sentence>
+                <Sentence Num="2">出资额或者持有股份的比例虽然低于百分之五十，但依其出资额或者持有的股份所享有的表决权已足以对股东会的决议产生重大影响的股东。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">

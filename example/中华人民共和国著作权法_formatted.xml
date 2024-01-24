@@ -155,7 +155,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国家著作权主管部门负责全国的著作权管理工作；县级以上地方主管著作权的部门负责本行政区域的著作权管理工作。</Sentence>
+              <Sentence Num="1">国家著作权主管部门负责全国的著作权管理工作；</Sentence>
+              <Sentence Num="2">县级以上地方主管著作权的部门负责本行政区域的著作权管理工作。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -405,7 +406,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>合作作品的著作权由合作作者通过协商一致行使；不能协商一致，又无正当理由的，任何一方不得阻止他方行使除转让、许可他人专有使用、出质以外的其他权利，但是所得收益应当合理分配给所有合作作者。</Sentence>
+                <Sentence Num="1">合作作品的著作权由合作作者通过协商一致行使；</Sentence>
+                <Sentence Num="2">不能协商一致，又无正当理由的，任何一方不得阻止他方行使除转让、许可他人专有使用、出质以外的其他权利，但是所得收益应当合理分配给所有合作作者。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -444,7 +446,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>前款规定以外的视听作品的著作权归属由当事人约定；没有约定或者约定不明确的，由制作者享有，但作者享有署名权和获得报酬的权利。</Sentence>
+                <Sentence Num="1">前款规定以外的视听作品的著作权归属由当事人约定；</Sentence>
+                <Sentence Num="2">没有约定或者约定不明确的，由制作者享有，但作者享有署名权和获得报酬的权利。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -524,7 +527,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>著作权属于法人或者非法人组织的，法人或者非法人组织变更、终止后，其本法第十条第一款第五项至第十七项规定的权利在本法规定的保护期内，由承受其权利义务的法人或者非法人组织享有；没有承受其权利义务的法人或者非法人组织的，由国家享有。</Sentence>
+                <Sentence Num="1">著作权属于法人或者非法人组织的，法人或者非法人组织变更、终止后，其本法第十条第一款第五项至第十七项规定的权利在本法规定的保护期内，由承受其权利义务的法人或者非法人组织享有；</Sentence>
+                <Sentence Num="2">没有承受其权利义务的法人或者非法人组织的，由国家享有。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -545,19 +549,22 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>自然人的作品，其发表权、本法第十条第一款第五项至第十七项规定的权利的保护期为作者终生及其死亡后五十年，截止于作者死亡后第五十年的12月31日；如果是合作作品，截止于最后死亡的作者死亡后第五十年的12月31日。</Sentence>
+                <Sentence Num="1">自然人的作品，其发表权、本法第十条第一款第五项至第十七项规定的权利的保护期为作者终生及其死亡后五十年，截止于作者死亡后第五十年的12月31日；</Sentence>
+                <Sentence Num="2">如果是合作作品，截止于最后死亡的作者死亡后第五十年的12月31日。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>法人或者非法人组织的作品、著作权（署名权除外）由法人或者非法人组织享有的职务作品，其发表权的保护期为五十年，截止于作品创作完成后第五十年的12月31日；本法第十条第一款第五项至第十七项规定的权利的保护期为五十年，截止于作品首次发表后第五十年的12月31日，但作品自创作完成后五十年内未发表的，本法不再保护。</Sentence>
+                <Sentence Num="1">法人或者非法人组织的作品、著作权（署名权除外）由法人或者非法人组织享有的职务作品，其发表权的保护期为五十年，截止于作品创作完成后第五十年的12月31日；</Sentence>
+                <Sentence Num="2">本法第十条第一款第五项至第十七项规定的权利的保护期为五十年，截止于作品首次发表后第五十年的12月31日，但作品自创作完成后五十年内未发表的，本法不再保护。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>视听作品，其发表权的保护期为五十年，截止于作品创作完成后第五十年的12月31日；本法第十条第一款第五项至第十七项规定的权利的保护期为五十年，截止于作品首次发表后第五十年的12月31日，但作品自创作完成后五十年内未发表的，本法不再保护。</Sentence>
+                <Sentence Num="1">视听作品，其发表权的保护期为五十年，截止于作品创作完成后第五十年的12月31日；</Sentence>
+                <Sentence Num="2">本法第十条第一款第五项至第十七项规定的权利的保护期为五十年，截止于作品首次发表后第五十年的12月31日，但作品自创作完成后五十年内未发表的，本法不再保护。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1017,7 +1024,8 @@
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>录音制作者使用他人已经合法录制为录音制品的音乐作品制作录音制品，可以不经著作权人许可，但应当按照规定支付报酬；著作权人声明不许使用的不得使用。</Sentence>
+                <Sentence Num="1">录音制作者使用他人已经合法录制为录音制品的音乐作品制作录音制品，可以不经著作权人许可，但应当按照规定支付报酬；</Sentence>
+                <Sentence Num="2">著作权人声明不许使用的不得使用。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1035,13 +1043,15 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>录音录像制作者对其制作的录音录像制品，享有许可他人复制、发行、出租、通过信息网络向公众传播并获得报酬的权利；权利的保护期为五十年，截止于该制品首次制作完成后第五十年的12月31日。</Sentence>
+                <Sentence Num="1">录音录像制作者对其制作的录音录像制品，享有许可他人复制、发行、出租、通过信息网络向公众传播并获得报酬的权利；</Sentence>
+                <Sentence Num="2">权利的保护期为五十年，截止于该制品首次制作完成后第五十年的12月31日。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>被许可人复制、发行、通过信息网络向公众传播录音录像制品，应当同时取得著作权人、表演者许可，并支付报酬；被许可人出租录音录像制品，还应当取得表演者许可，并支付报酬。</Sentence>
+                <Sentence Num="1">被许可人复制、发行、通过信息网络向公众传播录音录像制品，应当同时取得著作权人、表演者许可，并支付报酬；</Sentence>
+                <Sentence Num="2">被许可人出租录音录像制品，还应当取得表演者许可，并支付报酬。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1116,7 +1126,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>电视台播放他人的视听作品、录像制品，应当取得视听作品著作权人或者录像制作者许可，并支付报酬；播放他人的录像制品，还应当取得著作权人许可，并支付报酬。</Sentence>
+                <Sentence Num="1">电视台播放他人的视听作品、录像制品，应当取得视听作品著作权人或者录像制作者许可，并支付报酬；</Sentence>
+                <Sentence Num="2">播放他人的录像制品，还应当取得著作权人许可，并支付报酬。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1372,7 +1383,8 @@
           <Paragraph Num="4">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>人民法院为确定赔偿数额，在权利人已经尽了必要举证责任，而与侵权行为相关的账簿、资料等主要由侵权人掌握的，可以责令侵权人提供与侵权行为相关的账簿、资料等；侵权人不提供，或者提供虚假的账簿、资料等的，人民法院可以参考权利人的主张和提供的证据确定赔偿数额。</Sentence>
+              <Sentence Num="1">人民法院为确定赔偿数额，在权利人已经尽了必要举证责任，而与侵权行为相关的账簿、资料等主要由侵权人掌握的，可以责令侵权人提供与侵权行为相关的账簿、资料等；</Sentence>
+              <Sentence Num="2">侵权人不提供，或者提供虚假的账簿、资料等的，人民法院可以参考权利人的主张和提供的证据确定赔偿数额。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
