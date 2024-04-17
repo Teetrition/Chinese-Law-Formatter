@@ -1,7 +1,7 @@
 # Chinese-Law-Formatter
 A Python script to format Chinese law plain text to formatted XML file basically based on [Japanese e-Gov XML schema](https://elaws.e-gov.go.jp/download/), which is licensed under [its license](https://elaws.e-gov.go.jp/terms/). This license is compatible with CC BY 4.0. It is recommended and necessary to make sure your processed files has made attribution to [Japanese e-Gov XML schema](https://elaws.e-gov.go.jp/download/) and declare you have made modification. Attribution to this repository is not compulsory but welcomed.
 
-将中国法纯文本格式化为XML文件的Python脚本，XML文件基本基于[日本e-Gov的XML schema](https://elaws.e-gov.go.jp/download/)，该schema在[其使用条款](https://elaws.e-gov.go.jp/terms/)下授权，该许可证兼容CC BY 4.0。您有必要在被处理的文件中对[日本e-Gov的XML schema](https://elaws.e-gov.go.jp/download/)署名且声明您作出了修改。对本仓库的署名不是强制的，但我们欢迎您这么做。
+将中国法纯文本格式化为XML文件的Python脚本，XML文件基本基于[日本e-Gov的XML schema](https://elaws.e-gov.go.jp/download/)，该schema在[其使用条款](https://elaws.e-gov.go.jp/terms/)下授权，该许可证兼容CC BY 4.0。您有必要在被处理后的文件中对[日本e-Gov的XML schema](https://elaws.e-gov.go.jp/download/)署名且声明您作出了修改。对本仓库的署名不是强制的，但我们欢迎您这么做。
 
 Dependencies / 依赖：
 * [cn2an](https://github.com/Ailln/cn2an)
