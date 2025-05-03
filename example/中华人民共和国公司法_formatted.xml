@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <Law>
   <LawBody>
+    <LawTitle>中华人民共和国公司法</LawTitle>
     <MainProvision>
-      <LawTitle>中华人民共和国公司法</LawTitle>
       <Chapter Num="1">
         <ChapterTitle>第一章　总　　则</ChapterTitle>
         <Article Num="1">

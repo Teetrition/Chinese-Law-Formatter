@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <Law>
   <LawBody>
+    <LawTitle>中华人民共和国著作权法</LawTitle>
     <MainProvision>
-      <LawTitle>中华人民共和国著作权法</LawTitle>
       <Chapter Num="1">
         <ChapterTitle>第一章　总则</ChapterTitle>
         <Article Num="1">

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <Law>
   <LawBody>
+    <LawTitle>中华人民共和国宪法</LawTitle>
     <MainProvision>
-      <LawTitle>中华人民共和国宪法</LawTitle>
       <Preamble>
         <PreambleLabel>序言</PreambleLabel>
         <Paragraph Num="1">

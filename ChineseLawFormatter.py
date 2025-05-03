@@ -311,11 +311,11 @@ if __name__ == "__main__":
         processed_lines, suppl_exist = line_process(lines)
 
         if not suppl_exist:
-            xml_text = f'<Law><LawBody><MainProvision><LawTitle>{input_file_name.split(".")[0]}</LawTitle>{"".join(processed_lines)}</MainProvision></LawBody></Law>'
+            xml_text = f'<Law><LawBody><LawTitle>{input_file_name.split(".")[0]}</LawTitle><MainProvision>{"".join(processed_lines)}</MainProvision></LawBody></Law>'
         else:
             suppl_lines = suppl_process(lines)
             processed_suppl_lines, _ = line_process(suppl_lines)
-            xml_text = f'<Law><LawBody><MainProvision><LawTitle>{input_file_name.split(".")[0]}</LawTitle>{"".join(processed_lines)}</MainProvision><SupplProvision><SupplProvisionLabel>附则</SupplProvisionLabel>{"".join(processed_suppl_lines)}</SupplProvision></LawBody></Law>'
+            xml_text = f'<Law><LawBody><LawTitle>{input_file_name.split(".")[0]}</LawTitle><MainProvision>{"".join(processed_lines)}</MainProvision><SupplProvision><SupplProvisionLabel>附则</SupplProvisionLabel>{"".join(processed_suppl_lines)}</SupplProvision></LawBody></Law>'
 
         formatted_xml = format_xml(xml_text)
 
